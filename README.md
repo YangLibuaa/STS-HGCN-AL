@@ -3,7 +3,7 @@ Original PyTorch implementation of "Spatio-Temporal-Spectral Hierarchical Graph 
 
 **Paper: [https://ieeexplore.ieee.org/document/9440862](https://ieeexplore.ieee.org/document/9440862)**
 
-![STS-HGCN-AL](https://raw.githubusercontent.com/YangLibuaa/STS-HGCN-AL/main/Figures/STS-HGCN-AL.png)
+![STS-HGCN-AL](https://github.com/YangLibuaa/STS-HGCN-AL/blob/main/Figures/STS-HGCN-AL.jpg)
 
 ## Requirements
 The code was implemented using Python 3.8.3 and the following packages:
